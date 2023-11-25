@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-mc",
+  "version": "1.0.0",
+  "description": "Crear bot de telegram que busque datos en chat gpt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aicemaria112/telegram-bot-mc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aicemaria112/telegram-bot-mc/issues"
+  },
+  "homepage": "https://github.com/aicemaria112/telegram-bot-mc#readme",
+  "dependencies": {
+    "telegraf": "^4.15.0"
+  }
+}
